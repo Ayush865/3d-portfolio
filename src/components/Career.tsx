@@ -16,7 +16,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Software Engineer</h4>
-                <h5>Mobilewalla · Bengaluru</h5>
+                <h5>Mobilewalla · Kolkata</h5>
               </div>
               <h3>NOW</h3>
             </div>
