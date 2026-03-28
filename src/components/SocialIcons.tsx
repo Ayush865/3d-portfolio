@@ -78,7 +78,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Ayush_Prakash_SWE_2026.pdf"
+        href="https://drive.google.com/file/d/1lUoczE1Qr4N7DiAh9QfCJuGWqP91vzFH/view?usp=drive_link"
         target="_blank"
         rel="noreferrer"
       >
