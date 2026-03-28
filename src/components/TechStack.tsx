@@ -16,10 +16,10 @@ const imageUrls = [
   "/images/spark.png",
   "/images/airflow.png",
   "/images/aws.png",
-  "/images/emr.png",
-  "/images/ecs.png",
   "/images/docker.png",
   "/images/mysql.webp",
+  "/images/next2.webp",
+  "/images/fastapi.png",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
